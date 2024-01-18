@@ -19,8 +19,8 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "Abit about my self",
+    aboutme: "Hello, my full name is Rahimjonov Muhammadali. I was born in 2008 year",
 };
 const worktimeline = [{
     jobtitle: "Designer of week",
@@ -94,7 +94,7 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "rahimjonovmuhammadali1@gmail.com",
-    YOUR_FONE: "+998 942177708",
+    YOUR_FONE: "+998 999099876",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
