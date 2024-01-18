@@ -26,7 +26,7 @@ export const Portfolio = () => {
                 <img className="img_port" src={data.img} alt="" />
                 <div className="content">
                   <p>{data.description}</p>
-                  <a href={data.link}>view project</a>
+                  <a href='https://paint-orpin.vercel.app/'>view project</a>
                 </div>
               </div>
             );
