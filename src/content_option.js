@@ -4,7 +4,7 @@ import img2 from './image/Ux_BYD_Uf_B_Nl9_Rf_D5r6w_M_Dv_A_Wke3m_G_Tf_Za_Dcm_HGZ_
 import img3 from './image/node.webp'
 import img4 from './image/photo_2023-09-10_18-30-30.jpg'
 const meta = {
-    title: "Rahimjonov Muhammadali",
+    title: "Hi, Rahimjonov Muhammadali",
     description: "I’m Rahimjonov Muhammadali data scientist _ Full stack devloper",
 };
 
@@ -14,7 +14,7 @@ const introdata = {
         first: "I love coding",
         second: "I Web devloper",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I'm Full stack Web-developer",
     your_img_url: img4,
 };
 
@@ -78,7 +78,7 @@ const services = [{
 const dataportfolio = [{
     img: img1,
     description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    link: "https://paint-orpin.vercel.app/",
 },
 {
     img: img2,
