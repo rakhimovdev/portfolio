@@ -20,22 +20,22 @@ const introdata = {
 
 const dataabout = {
     title: "Abit about my self",
-    aboutme: "Hello, my full name is Rahimjonov Muhammadali. I was born in 2008 year",
+    aboutme: "Hello, my full name is Rahimjonov Muhammadali. I was born in 2008 year. I'm from Uzbekistan and I'm lorn English language at the moment",
 };
 const worktimeline = [{
     jobtitle: "Designer of week",
-    where: "YAdfi",
-    date: "2020",
+    // where: "YAdfi",
+    // date: "2020",
 },
 {
     jobtitle: "Designer of week",
-    where: "Jamalya",
-    date: "2019",
+    // where: "Jamalya",
+    // date: "2019",
 },
 {
     jobtitle: "Designer of week",
-    where: "ALquds",
-    date: "2019",
+    // where: "ALquds",
+    // date: "2019",
 },
 ];
 
@@ -53,7 +53,7 @@ const skills = [{
 },
 {
     name: "React",
-    value: 60,
+    value: 80,
 },
 {
     name: "Tailwind.css",
